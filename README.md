@@ -1,6 +1,6 @@
 # SoloAI: AI-Powered Solutions for SOHO Businesses
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SoloBSD/SoloAI)
 
 > A minimalist and visually striking static website for SoloAI, showcasing their AI automation and chatbot solutions for the SOHO market.
 
@@ -76,7 +76,7 @@ This command will build the application for production and deploy it using the W
 
 Alternatively, you can deploy directly from your GitHub repository with a single click:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SoloBSD/SoloAI)
 
 ## License
 
